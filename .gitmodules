@@ -1,0 +1,3 @@
+[submodule "VCL_Pytorch"]
+	path = VCL_Pytorch
+	url = https://github.com/Piyush-555/VCL-in-PyTorch
